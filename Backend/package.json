@@ -2,7 +2,7 @@
   "name": "task-manager-backend",
   "version": "1.0.0",
   "description": "API REST para Task Manager - Node.js + Express + MongoDB",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
