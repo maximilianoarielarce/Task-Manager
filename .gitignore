@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (secretos — nunca subir)
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+Frontend/dist/
+
+# Vite
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
